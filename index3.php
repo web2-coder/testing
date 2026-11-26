@@ -1,1 +1,1 @@
-<?php echo "Original File 3";
+<?php echo "Branch 2 - File 3";
